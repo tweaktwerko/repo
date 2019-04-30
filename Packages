@@ -1,28 +1,28 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
+Package: com.1conan.evanescoxi
+Version: 1.4.0
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Maintainer: tweaktwerk
+Depends: firmware (>12.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Filename: ./debs/com.1conan.evanescoxi_1.4.0.deb
+Size: 124
+MD5sum: AC10A453A7B1B32D4B455451FC40EB57
+Description: Clear Your Homescreen After Inactivity
+Author: 1conan
+Depiction: https://repo.chariz.io/package/com.1conan.evanescoxi/screenshots
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
+Package: com.dansa.flymecharge
+Version: 0.1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Maintainer: tweaktwerk
+Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Filename: ./debs/com.dansa.flymecharge_0.1.deb
+Size: 68
+MD5sum: 5FD38F2F83B84B3BF16E9FC70146A332
+Description: Lockscreen charging view inspired by FlymeOS.
+Author: dansa
+Depiction: http://dansa.github.io/depictions/info/com.dansa.flymecharge/screenshots.html
+
+
 
